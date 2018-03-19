@@ -22,12 +22,16 @@ Para cada item te pedimos que entregues:
 - Un breve texto explicando en tus palabras cómo lo resolviste
 - El código en el lenguaje que hayas elegido
 - El resultado
+
 A) ¿Cuántos nombres distintos hay en todo el dataset, considerando cada nombre por
 separado? Es decir, un nombre compuesto como María Inés cuenta una vez para María
 y otra para Inés . 1
+
 B) Construí un clasificador que separe los nombres en masculinos y femeninos2 ¿Cuán
 bien funciona? Elegí una métrica apropiada para evaluar el desempeño del clasificador
 y reportala.3
+
+
 C) Usá el clasificador que construiste en el punto anterior y graficá la cantidad estimada de
 nombres de varón y nombres de mujer para cada año.
 
