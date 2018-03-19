@@ -34,9 +34,11 @@ nombres de varón y nombres de mujer para cada año.
 1 Vas a notar que hay variantes entre nombres (por ejemplo Inés e Ines), algunas que son errores de
 digitalización y otras que son variantes válidas. No hace falta que intentes solucionar este problema para
 realizar el conteo.
+
 2 Este clasificador tendrá necesariamente limitaciones, entre otras cosas, porque existen nombres que
 son usados tanto para varones como para mujeres. Para este punto nombre es el nombre completo es
 decir “Juan Carlos” se considera todo junto.
+
 3 Es probable que necesites generar (o descargar de algun lado) un conjunto de entrenamiento para el
 clasificador.
 
